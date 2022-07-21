@@ -1,4 +1,5 @@
 function [DFE,T_0001,T_bonferroni_005,T_005]=CYJ_linearModel_brain(numberOfworkers,fileName_cell,tableX,formula, outpath, Mask_fileName,linearModel_flag,parpool_flag)
+%numberOfworkers:parpool workers
 %fileName_cell:image of subjects, can not have empty
 %tableX:a table contain all variables with variableNames
 %formula:Y~X+C
