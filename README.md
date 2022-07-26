@@ -1,8 +1,7 @@
 This repository contains codes used for statistical analysis utilizing Statistics and Machine Learning Toolbox
 
 CYJ_linearModel_brain.m: performing voxel-wise GLM/LMM in volume data, parpool is used to parallelize jobs
-
-CYJ_CCA_adjustedCV_NORM.m
+CYJ_CCA_adjustedCV_NORM.m: performing CCA between two sets of variables with covariates being controled and p value detemined via permutation tests
 
 CYJ_lvOneOut_valida_corr.m
 plot_lm_adjusted_version2.m
