@@ -4,7 +4,7 @@ This repository contains codes used for statistical analysis utilizing Statistic
 
 
 
-CYJ_linearModel_brain.m:       			performing voxel-wise GLM/LMM in volume data, parpool is used to parallelize jobs
+CYJ_linearModel_brain.m: performing voxel-wise GLM/LMM in volume data, parpool is used to parallelize jobs
 
 plot_lm_adjusted_version2.m:   adjusted response plot for linear regression model fitted by fitlm
 
