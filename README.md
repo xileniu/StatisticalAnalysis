@@ -9,9 +9,10 @@ adjusted response plot for linear regression model fitted by fitlm
 plot_lmeLevel1_adjustedCV.m:
 adjusted response plot for level1 variables of linear mixed model fitted by fitlme
 
+CYJ_lvOneOut_valida_corr.m: performing validation of correlation using leave-one-out cross validation
+
 CYJ_CCA_adjustedCV_NORM.m: performing CCA between two sets of variables with covariates being controled and p value detemined via permutation tests
 
-CYJ_lvOneOut_valida_corr.m
 
-including do a voxel-wise search of glm/hlm on volume data, plot the satter plot and run RFT correction
+
 
